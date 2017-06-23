@@ -6,4 +6,5 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-Your response goes here!
+I didn't go through this section of the course as i had prerequisite knowledge for completing this project.
+Everything is going on smoothly, I didn't come across any challenge until now.
